@@ -22,14 +22,14 @@ export default function RootLayout({
       <head>
         <title>Crms</title>
         <meta name="application-name" content="Crms" />
-        <meta name="author" content="kevin Kalisa" />
+        <meta name="author" content="Lukas" />
         <link rel="author" href="https://crms.com" />
         <meta name="generator" content="Crms" />
         <meta name="keywords" content="Crms Web Application" />
         <meta name="referrer" content="origin-when-cross-origin" />
         <meta name="color-scheme" content="dark" />
-        <meta name="creator" content="Kevin Kalisa" />
-        <meta name="publisher" content="Kevin Kalisa" />
+        <meta name="creator" content="Lukas" />
+        <meta name="publisher" content="Lukas" />
         <meta
           name="format-detection"
           content="telephone=no, address=no, email=no"

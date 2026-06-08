@@ -31,7 +31,7 @@ This project is a simple Next.js web application that fetches and visualizes web
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:kalisaNkevin/crms.git
+   git clone git@github.com:Lukas-dev1999/crm-admin.git
    cd CRMS
    ```
 2. Add .env.local file in the file directory:
@@ -70,4 +70,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://www.mi
 
 ## Author
 
-This project was initiated by [Kalisa Ngabo Kevin](kalisangabokevin.me). You can reach out to me at [kalisangabokevin@gmail.com](kalisangabokevin@gmail.com) or visit my GitHub profile at [https://github.com/kalisaNkevin](https://github.com/kalisaNkevin).
+This project was initiated by [Lukas](Lukas.me). You can reach out to me at [LRms19992000@outlook.com](LRms19992000@outlook.com) or visit my GitHub profile at [https://github.com/Lukas-dev1999](https://github.com/Lukas-dev1999).
